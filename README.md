@@ -13,3 +13,6 @@ Regular Expressions (re): Para limpar os textos dos comentários, removendo URLs
 
 dotenv (opcional): Utilizado para carregar variáveis de ambiente, como as credenciais de login, de maneira segura.
 
+resultados:
+
+![image](https://github.com/user-attachments/assets/40b17366-6e7e-4107-aeb1-e63a43cb148f)
